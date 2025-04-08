@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-l_lpx(95k(oe!@(avlp&$jeep3xhorqi65z+&cojw8+sozsoy%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'skills-build-applications-w-copilot-agent-mode-8000.app.github.dev']
 
 
 # Application definition
